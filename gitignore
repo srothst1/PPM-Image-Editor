@@ -1,0 +1,26 @@
+
+
+picfilter
+a.out
+test_data
+
+# no image files in git this week
+*.ppm 
+*.jpg
+*.png
+
+#See templates at https://github.com/github/gitignore
+
+#C/C++ library and object files
+*.o
+*.a
+*.so
+
+# MAC, vim, emacs goofiness
+.DS_STORE
+.DS_STORE?
+*~
+*#
+.#*
+.nfs*
+.*.sw?
